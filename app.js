@@ -16,37 +16,37 @@ closeShopping.addEventListener('click', ()=>{
 let products = [
     {
         id: 1,
-        name: 'PRODUCT NAME 1',
-        image:'product2.jpg',
-        price: 120000
+        name: 'Pink Pearl TL',
+        image:'product1.jpg',
+        price: 50
     },
     {
         id: 2,
-        name: 'PRODUCT NAME 2',
+        name: 'Lolita Love TL',
         image: 'product2.jpg',
-        price: 120000
+        price: 50
     },
     {
         id: 3,
-        name: 'PRODUCT NAME 3',
+        name: 'Lovely BlackPink TL',
         image: 'product3.jpg',
-        price: 220000
+        price: 50
     },
     {
         id: 4,
-        name: 'PRODUCT NAME 4',
+        name: 'Sunshine Resin Binder Cover',
         image: 'product7.jpg',
         price: 123000
     },
     {
         id: 5,
-        name: 'PRODUCT NAME 5',
+        name: 'Pink Petal Resin Binder Cover',
         image: 'product7.jpg',
         price: 320000
     },
     {
         id: 6,
-        name: 'PRODUCT NAME 6',
+        name: 'Purple Sunset Resin Binder Cover',
         image: 'product8.jpg',
         price: 120000
     },
